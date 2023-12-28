@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(132, 31, 68);
+    color: rgb(242, 240, 237);
+    font-size: large;
+}
+a{
+    color: aqua;
+}
+a:active{
+    color: brown;
+}
+a:hover{
+    color:chartreuse;
+}

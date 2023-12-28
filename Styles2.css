@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(16, 132, 141);
+    color: rgb(242, 240, 237);
+    font-size: large;
+}
+a{
+    color: rgb(2, 40, 40);
+}
+a:active{
+    color: rgb(56, 25, 112);
+}
+a:hover{
+    color:rgb(83, 10, 62);
+}

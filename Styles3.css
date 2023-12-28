@@ -1,0 +1,11 @@
+body{
+    color: rgb(3, 59, 137);
+    background-color: rgb(29, 173, 173);
+    font-size: large;
+    font: italic;
+    font-family: cursive;
+}
+p{
+    color: rgb(14, 60, 135);
+    background-color: rgb(29, 173, 173);
+}
